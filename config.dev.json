@@ -27,7 +27,7 @@
     "notes": " Don't chng wlt uid okh"
   },
   "nickNameBot": "RAMENKING",
-  "prefix": "+",
+  "prefix": "/",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
